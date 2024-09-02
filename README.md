@@ -1,5 +1,5 @@
-# AI-Assistant-Program
-This repository contains an AI Assistant program built using Python and the OpenAI API. The assistant is designed to perform various tasks, answer questions, and interact with users in a conversational manner, including voice-based interactions.
+# AI-Assistant
+This repository contains an AI Assistant built using Python and the OpenAI API. The assistant is designed to perform various tasks, answer questions, and interact with users in a conversational manner, including voice-based interactions.
 
 # Features
 - Natural Language Understanding: The assistant can understand and respond to a wide range of queries.
