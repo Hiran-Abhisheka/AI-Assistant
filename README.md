@@ -26,6 +26,7 @@ To run this project locally, follow these steps:
   cd AI-Assistant-Program
 ```
 3.Add API key ` Code line 8 `
+
 4.Open ` gpt_speech_ai_assistant.py `in your web browser:
 ```bash
   open gpt_speech_ai_assistant.py
