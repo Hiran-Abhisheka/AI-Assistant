@@ -19,11 +19,11 @@ To run this project locally, follow these steps:
 
 1.Clone the repository:
 ```bash
-  https://github.com/Hiran-Abhisheka/AI-Assistant-Program.git
+  https://github.com/Hiran-Abhisheka/AI-Assistant.git
 ```
 2.Navigate to the project directory: 
 ```bash
-  cd AI-Assistant-Program
+  cd AI-Assistant
 ```
 3.Add API key ` Code line 8 `
 
